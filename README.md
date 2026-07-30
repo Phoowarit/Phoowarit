@@ -16,7 +16,7 @@
 - 💬 Ask me about: **Web Development & Mobile Development**  
 - ⚡ Fun fact: **I love exploring new technologies and building cool apps**  
 - 🎓 Education: **Information Technology at Maejo University**  
-- 📫 Reach me: [GitHub](https://github.com/Phoowarit)
+- 📫 Reach me: [typesheil4770@gmail.com](mailto:typesheil4770@gmail.com) | [GitHub](https://github.com/Phoowarit)
 
 ---
 
@@ -41,12 +41,20 @@
 |---------|------|-----------|-------|
 | **🏋️‍♂️ Gym Management System** | Flutter · Spring Boot · MySQL | A comprehensive management platform for fitness centers covering member registration, service tracking, and administration. | [Repo](https://github.com/Phoowarit) |
 
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Phoowarit&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoowarit&layout=compact&hide_border=true" />
+</div>
 
 ---
 
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
+- 📧 Email: [typesheil4770@gmail.com](mailto:typesheil4770@gmail.com)
 - 🐙 GitHub: [Phoowarit](https://github.com/Phoowarit)
 
 <p align="center">
