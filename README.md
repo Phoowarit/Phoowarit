@@ -41,13 +41,6 @@
 |---------|------|-----------|-------|
 | **🏋️‍♂️ Gym Management System** | Flutter · Spring Boot · MySQL | A comprehensive management platform for fitness centers covering member registration, service tracking, and administration. | [Repo](https://github.com/Phoowarit) |
 
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Phoowarit&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoowarit&layout=compact&hide_border=true" />
-</div>
 
 ---
 
