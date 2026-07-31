@@ -15,7 +15,8 @@
 - 🎯 Goal: **Mastering System Design & Advanced Backend**  
 - 💬 Ask me about: **Web Development & Mobile Development**  
 - ⚡ Fun fact: **I love exploring new technologies and building cool apps**  
-- 🎓 Education: **Information Technology at Maejo University**  
+- 🎓 Education: **Information Technology at Maejo University**
+- Experiences & Resume: [Resume](https://drive.google.com/file/d/1YzrL8W5b0phoiVx3uBKitTVEQga1DO8u/view?usp=sharing)
 - 📫 Reach me: [typesheil4770@gmail.com](mailto:typesheil4770@gmail.com) | [GitHub](https://github.com/Phoowarit)
 
 ---
